@@ -2,7 +2,7 @@
 
 As someone deeply fascinated by AI and complex systems, I built this project out of curiosity for how simple rules can give rise to surprisingly complex behaviour. Conway's Game of Life felt like the perfect starting point to explore the intersection of simulation, emergent patterns, and computational thinking.
 
-If you're interested in simulations, emergent systems, or AI, feel free to reach out, I would love to connect! 📧 Email: sanjana.aswathaiah@gmail.com
+If the idea that complexity can arise from simplicity excites you — let's talk!, feel free to reach out, I would love to connect! 📧 Email: sanjana.aswathaiah@gmail.com
 💼 LinkedIn: [linkedin.com/in/sanjanaashwath](https://www.linkedin.com/in/sanjana-aswathaiah/)
 
 
