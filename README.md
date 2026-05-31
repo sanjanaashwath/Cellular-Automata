@@ -1,5 +1,8 @@
 # Conway's Game of Life
 
+As someone deeply fascinated by AI and complex systems, I built this project out of curiosity for how simple rules can give rise to surprisingly complex behaviour. Conway's Game of Life felt like the perfect starting point to explore the intersection of simulation, emergent patterns, and computational thinking
+
+
 A fully interactive, browser-based simulation of **Conway's Game of Life** — a classic cellular automaton invented by mathematician John Horton Conway in 1970.
 
 ![Game of Life Preview](https://img.shields.io/badge/HTML5-Canvas-orange?style=flat-square&logo=html5)
