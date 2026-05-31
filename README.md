@@ -6,6 +6,7 @@ If the idea that complexity can arise from simplicity excites you — let's talk
 💼 LinkedIn: [linkedin.com/in/sanjanaashwath](https://www.linkedin.com/in/sanjana-aswathaiah/)
 
 🔴 Live Demo: [https://sanjanaashwath.github.io/Cellular-Automata/](https://sanjanaashwath.github.io/Cellular-Automata/)
+
 A fully interactive, browser-based simulation of **Conway's Game of Life** — a classic cellular automaton invented by mathematician John Horton Conway in 1970.
 
 ![Game of Life Preview](https://img.shields.io/badge/HTML5-Canvas-orange?style=flat-square&logo=html5)
